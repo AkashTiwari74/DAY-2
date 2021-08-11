@@ -13,7 +13,7 @@ q = p;
 *q = 2;
 cout<<i<<" "<<j;
 
-
+                          // ANS ::  2 0
 
 return 0;
 
